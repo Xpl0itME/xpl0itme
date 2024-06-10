@@ -1,37 +1,40 @@
-👋 Hi there, I'm Himanshu Bharti!
+# 👋 Hi, I'm [Your Name]!
 
-🔍 **Bug Bounty Hunter | Cybersecurity Expert**
+<div align="center">
+  <h2><a href="#" style="color: inherit; text-decoration: none;">🔍 <span style="animation: blink-animation 1s steps(5, start) infinite;">Bug Bounty Hunter | Cybersecurity Expert</span></a></h2>
+</div>
 
-I'm passionate about safeguarding the digital world. I specialize in identifying and mitigating security vulnerabilities to protect users and organizations. With a sharp eye for detail and a dedication to excellence, I love the challenge of uncovering hidden threats and strengthening defenses.
+<style>
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+</style>
 
-🌟 **Skills and Expertise:**
-- Web Application Security
-- Penetration Testing
-- Vulnerability Assessment
-- Exploit Development
-- Network Security
-- Threat Modeling
+Passionate about finding and fixing vulnerabilities to keep the digital world safe.
 
-🛠 **Tools I Use:**
-- Burp Suite
-- OWASP ZAP
-- Metasploit
-- Wireshark
-- Nmap
-- Nessus
+## 🛠 Tools & Skills
+- Web App Security
+- Pen Testing
+- Exploit Dev
+- Burp Suite, Metasploit, Wireshark
 
-🏆 **Achievements:**
-- Featured in the Hall of Fame for major platforms like Shopify, Facebook, and Microsoft
-- Published research in leading cybersecurity journals
+## 🏆 Achievements
+- Top 1% in several bug bounty programs
+- Hall of Fame for Google, Facebook, Microsoft
+- Published research in cybersecurity journals
 
-📚 **Always Learning:**
-- OSCP (Offensive Security Certified Professional)
-- CEH (Certified Ethical Hacker)
-- CISSP (Certified Information Systems Security Professional)
+## 📚 Always Learning
+- OSCP, CEH, CISSP
 
+## 🚀 Current Projects
+- [Project Name] - Automating web security testing
+- [Project Name] - Open-source exploit scripts
 
-🔗 **Let's Connect:**
-- [Lintree](https://linktr.ee/Xpl0itME)
-I'm always excited to collaborate with others to make the internet a safer place!
+## 🔗 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
+- [Blog](https://yourblog.com)
 
----
+Excited to collaborate and make the internet safer!
