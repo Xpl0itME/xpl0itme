@@ -1,7 +1,3 @@
-Sure, here's a more personalized version:
-
----
-
 👋 Hi there, I'm Himanshu Bharti!
 
 🔍 **Bug Bounty Hunter | Cybersecurity Expert**
