@@ -1,16 +1,8 @@
 # 👋 Hi, I'm [Your Name]!
 
-<div align="center">
-  <h2><a href="#" style="color: inherit; text-decoration: none;">🔍 <span style="animation: blink-animation 1s steps(5, start) infinite;">Bug Bounty Hunter | Cybersecurity Expert</span></a></h2>
-</div>
+<h2 align="center">🔍 <span>Bug Bounty Hunter | Cybersecurity Expert</span></h2>
 
-<style>
-@keyframes blink-animation {
-  to {
-    visibility: hidden;
-  }
-}
-</style>
+![Animated Text](https://svgshare.com/i/TxH.svg)
 
 Passionate about finding and fixing vulnerabilities to keep the digital world safe.
 
